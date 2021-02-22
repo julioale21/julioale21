@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**julioale21/julioale21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is @julioRomero.
+I'm a Police Officer and a SSR Full Stack Developer. I am a lover ❣️ of technology and application development. I like ⚽ and 🎸. I like to travel and see many places.
+Every day I try to be a better developer, learning technology, skills and good practices. I like working with people and creating products as a team.
 
-Here are some ideas to get you started:
+Currently working on Policia del Chubut as a 🖥️ Computer and 🎙️ Communication Technician. I also work daily on small personal projects and as a collaborator with the aim of improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning 
+
+  NestJs, ReactJs, VueJs
+
+  Python, Django
+
+  I try to learn new tools, libraries, frameworks every day, which allow me to be more agile and improve the quality of my projects
+
+
+
+
