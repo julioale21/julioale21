@@ -19,6 +19,7 @@ Currently working on Policia del Chubut as a 🖥️ Computer and 🎙️ Commun
   
   ***School***: *Politecnica 701*
   
+  <hr>
   
   ***Title***: *Analista Programador Universitario*
   
