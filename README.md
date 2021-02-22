@@ -13,13 +13,13 @@ Currently working on Policia del Chubut as a 🖥️ Computer and 🎙️ Commun
 
 ## 💻 Studies completed
 
-  ##### Title: 
+  #### Title: 
   ElectroMechanical Technician
   ##### Year: 1999
   ##### School: 
   Politecnica 701
   
-  ##### Title: 
+  #### Title: 
   Analista Programador Universitario
   ##### Year: 
   2017
