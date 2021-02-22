@@ -13,18 +13,18 @@ Currently working on Policia del Chubut as a 🖥️ Computer and 🎙️ Commun
 
 ## 💻 Studies completed
 
-  #### Title: 
-  ElectroMechanical Technician
-  ##### Year: 1999
-  ##### School: 
-  Politecnica 701
+  ***Title***: *ElectroMechanical Technician*
   
-  #### Title: 
-  Analista Programador Universitario
-  ##### Year: 
-  2017
-  ##### University: 
-  UNPAT San Juan Bosco
+  ***Year***: *1999*
+  
+  ***School***: *Politecnica 701*
+  
+  
+  ***Title***: *Analista Programador Universitario*
+  
+  ***Year***: *2017*
+  
+  ***University***: *UNPAT San Juan Bosco*
 
 
 
