@@ -8,12 +8,23 @@ Currently working on Policia del Chubut as a 🖥️ Computer and 🎙️ Commun
 
 ## 📚 Learning 
 
-  NestJs, ReactJs, VueJs
-
-  Python, Django
-
+  NestJs, ReactJs, VueJs, Python, Django, among others.
   I try to learn new tools, libraries, frameworks every day, which allow me to be more agile and improve the quality of my projects
 
+## 💻 Studies completed
+
+  ##### Title: 
+  ElectroMechanical Technician
+  ##### Year: 1999
+  ##### School: 
+  Politecnica 701
+  
+  ##### Title: 
+  Analista Programador Universitario
+  ##### Year: 
+  2017
+  ##### University: 
+  UNPAT San Juan Bosco
 
 
 
