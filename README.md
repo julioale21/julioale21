@@ -35,7 +35,7 @@ Every day I try to be a better developer, learning technology, improving skills 
   
    ***Year***: *2021*
   
-  ***Institute***: *ILI (English Language Institute*
+  ***Institute***: *ILI (English Language Institute)
   
   ***4th Intermediate***: In progress
 
