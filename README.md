@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My Name is @julioRomero.
-I'm a Police Officer and a SSR Full Stack Developer. I am a lover ❣️ of technology and application development. I like ⚽ and 🎸. I like to travel and see many places.
-Every day I try to be a better developer, learning technology, skills and good practices. I like working with people and creating products as a team.
+I'm a Police Officer and a SSR Full Stack Developer. I am a lover ❣️ of technology and application development. I like football ⚽ and guitar 🎸. I like to travel and see many places.
+Every day I try to be a better developer, learning technology, improving skills and learning good practices. I like working with people and creating products as a team.
 
 ## Currently working on 
 
