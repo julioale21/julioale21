@@ -15,7 +15,7 @@ Every day I try to be a better developer, learning technology, improving skills 
   
   - English.
 
-## 💻 Studies completed
+## 💻 Studies completed and in progress
 
   ***Title***: *ElectroMechanical Technician*
   
