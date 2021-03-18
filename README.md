@@ -10,8 +10,10 @@ Every day I try to be a better developer, learning technology, improving skills 
 
 ## 📚 Learning 
 
-  NestJs, ReactJs, VueJs, Python, Django, among others.
+  - NestJs, ReactJs, VueJs, Nextjs, Nuxtjs, Graphql, Python, Django, among others.
   I try to learn new tools, libraries, frameworks every day, which allow me to be more agile and improve the quality of my projects
+  
+  - English.
 
 ## 💻 Studies completed
 
@@ -28,6 +30,13 @@ Every day I try to be a better developer, learning technology, improving skills 
   ***Year***: *2017*
   
   ***University***: *UNPAT San Juan Bosco*
+  
+  <br>
+   ***Year***: *2021*
+  
+  ***Institute***: *ILI (English Language Institute*
+  
+  ***4th Intermediate***: In progress
 
 
 
