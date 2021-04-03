@@ -35,13 +35,13 @@ Every day I try to be a better developer, learning technology, improving skills 
   
    ***Year***: *2021*
   
-  ***Institute***: *ILI (English Language Institute)
+  ***Institute***: *ILI (English Language Institute)*
   
-  ***4th Intermediate***: In progress
+  ***4th Intermediate***: *In progress*
   
   
  ## 🖥️ Other studies and courses
  
-React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)
+*React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)*
 
 
