@@ -17,11 +17,11 @@ Every day I try to be a better developer, learning technology, improving skills 
 
 ## 💻 Studies completed and in progress
 
-  ***Title***: *ElectroMechanical Technician*
+   ***Year***: *2021*
   
-  ***Year***: *1999*
+  ***Institute***: *ILI (English Language Institute)*
   
-  ***School***: *Politecnica 701*
+  ***4th Intermediate***: *In progress*
   
   <br>
   
@@ -32,13 +32,14 @@ Every day I try to be a better developer, learning technology, improving skills 
   ***University***: *UNPAT San Juan Bosco*
   
   <br>
+
+  ***Title***: *ElectroMechanical Technician*
   
-   ***Year***: *2021*
+  ***Year***: *1999*
   
-  ***Institute***: *ILI (English Language Institute)*
+  ***School***: *Politecnica 701*
   
-  ***4th Intermediate***: *In progress*
-  
+
   
  ## 🖥️ Other studies and courses
  
