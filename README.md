@@ -43,7 +43,17 @@ Every day I try to be a better developer, learning technology, improving skills 
   
  ## 🖥️ Other studies and courses
  
+ ### Udemy ###
+ 
 *React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)*
+
+### Escuela Vue ###
+*Componentes en Vue desde cero*
+*Vue intermedio, más allá de lo esencial*
+*Vuex desde cero*
+*Vue 3, Conoce todas las novedades*
+*Curso Vue Router esencial, aprende a enrutar con Vue*
+*Curso Firebase para Web*
 
 ## 🔧 Jobs
 
