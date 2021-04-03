@@ -45,4 +45,15 @@ Every day I try to be a better developer, learning technology, improving skills 
  
 *React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)*
 
+## 🔧 Jobs
+
+  ***At present*** 
+  
+  ***Policia del Chubut:*** *Security, IT and communications technician*
+  
+  <br>
+  
+  ***Year***: 2017-2019
+  
+  ***Patagonia Software Ltda.***: *Full Stack Developer - Vb.net and SQL Server*
 
