@@ -42,6 +42,6 @@ Every day I try to be a better developer, learning technology, improving skills 
   
  ## 🖥️ Other studies and courses
  
-React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a crm application (Repository: https://github.com/julioale21/CRM-graphql-frontend)
+React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)
 
 
