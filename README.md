@@ -53,7 +53,7 @@ Every day I try to be a better developer, learning technology, improving skills 
   
   <br>
   
-  ***Year***: 2017-2019
+  ***Year***: 2017-2020
   
   ***Patagonia Software Ltda.***: *Full Stack Developer - Vb.net and SQL Server*
 
