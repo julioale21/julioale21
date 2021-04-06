@@ -15,7 +15,7 @@ Every day I try to be a better developer, learning technology, improving skills 
   
   - English.
 
-## 💻 Studies completed and in progress
+## 💻 Completed and in progress studies
 
    ***Year***: *2021*
   
