@@ -19,6 +19,22 @@ Every day I try to be a better developer, learning technology, improving skills 
 
    ***Year***: *2021*
   
+  ***Company***: *Rooftop Academy*
+  
+  ***Frontend developer with React.js***: *In progress*
+  
+  <br>
+  
+   ***Year***: *2021*
+  
+  ***Company***: *Rooftop Academy*
+  
+  ***Backend developer with Node.js, Express and Typescript***: *In progress*
+  
+  <br>
+
+   ***Year***: *2021*
+  
   ***Institute***: *ILI (English Language Institute)*
   
   ***4th Intermediate***: *In progress*
