@@ -19,17 +19,31 @@ Every day I try to be a better developer, learning technology, improving skills 
 
    ***Year***: *2021*
   
+   ***Months***: *July-today*
+
+   ***Company***: *Alkemy Labs*
+
+   ***Frontend developer with React.js***: *In progress*
+
+   <br>
+
+   ***Year***: *2021*
+
+   ***Months***: *May-July*
+  
   ***Company***: *Rooftop Academy*
   
-  ***Frontend developer with React.js***: *In progress*
+  ***Frontend developer with React.js***: *Finished*
   
   <br>
   
    ***Year***: *2021*
+
+   ***Months***: *May-July*
   
   ***Company***: *Rooftop Academy*
   
-  ***Backend developer with Node.js, Express and Typescript***: *In progress*
+  ***Backend developer with Node.js, Express and Typescript***: *Finished*
   
   <br>
 
