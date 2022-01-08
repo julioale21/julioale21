@@ -8,8 +8,6 @@ Every day I try to be a better developer, learning technology, improving skills 
 
   Moonshot Partners as a Software Engineer
 
-  Policia del Chubut as a 🖥️ Computer and 🎙️ Communication Technician. I also work daily on small personal projects and as a collaborator with the aim of improving my skills.
-
 ## 📚 Learning 
 
   - NestJs, ReactJs, VueJs, Nextjs, Nuxtjs, Graphql, Python, Django, among others.
