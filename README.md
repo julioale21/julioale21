@@ -10,7 +10,7 @@ Every day I try to be a better developer, learning technology, improving skills 
 
 ## 📚 Learning 
 
-  - NestJs, ReactJs, VueJs, Nextjs, Nuxtjs, Graphql, Python, Django, among others.
+  - NestJs, ReactJs, VueJs, Nextjs, Nuxtjs, Graphql, AWS, Azure, Node js, among others.
   I try to learn new tools, libraries, frameworks every day, which allow me to be more agile and improve the quality of my projects
   
   - English.
@@ -76,6 +76,14 @@ Every day I try to be a better developer, learning technology, improving skills 
  ### Udemy ###
  
 *React Avanzado: Fullstack Next.js, Apollo, MongoDB y GraphQL: Building a CRM application (Repository: https://github.com/julioale21/CRM-graphql-frontend)*
+
+*GitLab CI: Pipelines, CI/CD and DevOps for Beginners
+
+*Next.js & React - The Complete Guide (incl. Two Paths!)
+
+*Despliegue de proyectos Node.js en Amazon Web Services
+
+*Nodejs Express - unit testing/integration tests with Jest
 
 ### Escuela Vue ###
 
