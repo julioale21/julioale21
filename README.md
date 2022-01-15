@@ -104,7 +104,7 @@ Every day I try to be a better developer, learning technology, improving skills 
 
   ***At present*** 
   
-  ***Moonshot Partners: FullStack Software Engineer***
+  ***Moonshot Partners:*** *FullStack Software Engineer*
   
   ***Policia del Chubut:*** *Security, IT and communications technician*
   
